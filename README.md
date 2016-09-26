@@ -1,4 +1,4 @@
-# Penn VR Club: First Person Shooter Tutorial Tutorial
+# Penn VR Club: First Person Shooter Tutorial
 A simple FPS game for PennVR club Unreal workshop. Use PennVRTutorial.umap
 
 You can click on gif for [full video](https://youtu.be/MthvLVkWQ1U)
